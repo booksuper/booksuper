@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Github Stats](https://github-readme-stats.vercel.app/api?username=booksuper&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booksuper&theme=dark&layout=compact)
 
 <!--
 **booksuper/booksuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
