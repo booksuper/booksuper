@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/60308179/175886229-2bbd7496-9c2c-42a9-b118-a0e4452bb545.png)
 
-I am a graduate student who interests in machine vision, 3D vision and autonomous driving.
+I am a graduate student who interests in `machine vision, 3D vision and autonomous driving`.
 
-Language and Tools:<br>
+*Language and Tools*:<br>
 ![](https://img.shields.io/badge/-c++-red?logo=c%2B%2B&style=social)   ![](https://img.shields.io/badge/-Python-orange?logo=Python&style=social) <br>
 ![](https://img.shields.io/badge/-CSharp-red?logo=CSharp&style=social)    ![](https://img.shields.io/badge/-PCL-green?logo=PCL&style=social) <br>
 ![](https://img.shields.io/badge/-OpenCV-green?logo=OpenCV&style=social)    ![](https://img.shields.io/badge/-ROS-brightgreen?logo=ROS&style=social)<br>
